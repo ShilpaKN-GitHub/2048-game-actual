@@ -1,2 +1,3 @@
-# 2048-game-actual
-2048 game with style as per original game
+# 2048 game
+
+Combine numners to reach 2048 !!
